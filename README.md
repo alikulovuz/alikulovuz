@@ -1,4 +1,4 @@
-<a href="https://t.me/alikulovuz"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
+<a href="https://t.me/alikulovuz"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D107779824974345&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FsompondcryptoArtNft%2F&tbnid=69hcCfNHWWQc8M&vet=12ahUKEwiDpe7dpcf1AhULuSoKHdZQAfsQMygCegUIARC5AQ..i&docid=z1Q4MPeqmvebOM&w=2048&h=2048&q=profile%20picture%20nft&ved=2ahUKEwiDpe7dpcf1AhULuSoKHdZQAfsQMygCegUIARC5AQ" align="right" height="200"/></a>
 
 # Hi there, I'm Azamat 👋
 

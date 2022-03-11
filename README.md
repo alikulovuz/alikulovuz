@@ -1,8 +1,8 @@
 <a href="https://t.me/alikulovuz"><img src="https://www.google.com/imgres?imgurl=https://www.google.com/url?sa=i&url=https%3A%2F%2Fopensea.io%2FGET-Lucky-NFT%3Fidentifier%3DGET-Lucky-NFT%26tab%3Dfavorites&psig=AOvVaw3MXZrlUZ2LI2edJ5cfXaY4&ust=1643007599318000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiq-bSmx_UCFQAAAAAdAAAAABAD" align="right" height="200"/></a>
 
-# Hi there, I'm Azamat 👋
+# Hi there, I'm Abdulaziz 👋
 
-> A software engineer building awesome web back/front stuff using Node.js And React.
+> A software engineer building awesome web back/front stuff using Node.js, Express, Go, Gin And React.
 <br/><br/><br/>
 
 <p align="end">
